@@ -6,7 +6,10 @@ A modern Food Ordering iOS application built using Swift and UIKit. This app pro
 
 | Home Screen | Food Details | Cart |
 |---|---|---|
-| Add Screenshot | Add Screenshot | Add Screenshot |
+| <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-20 at 23 03 12" src="https://github.com/user-attachments/assets/3f3b15d9-3d56-4b29-98f6-3d8ba75fb7e8" />
+
+
+ | Add Screenshot | Add Screenshot |
 
 ## 🚀 Features
 
