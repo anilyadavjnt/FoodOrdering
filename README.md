@@ -8,6 +8,10 @@ A modern Food Ordering iOS application built using Swift and UIKit. This app pro
 
 <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-20 at 23 03 17" src="https://github.com/user-attachments/assets/beb57ffc-4d98-4ba0-8837-aeb24511fb5d" />
 
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-20 at 23 03 24" src="https://github.com/user-attachments/assets/46ad91b8-b4ef-4829-bc9a-9849f1b84620" />
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-20 at 23 03 33" src="https://github.com/user-attachments/assets/01fd6cc7-2d94-4e6e-9ee3-f5834f8b48f2" />
+
 
 
 ## 🚀 Features
