@@ -50,7 +50,7 @@ More screenshots coming soon.
 **Anil Yadav – iOS Developer**
 
 - GitHub: https://github.com/anilyadavjnt
-- LinkedIn: https://linkedin.com/in/anilyadavjnt/
+- LinkedIn: https://linkedin.com/in/anilyadavjnt
 - Portfolio: https://portfolio-anilyadavjnt.vercel.app
 
 ---
